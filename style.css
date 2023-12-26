@@ -18,13 +18,15 @@ header, footer {
 header {
     background-color:green;
 }
+img {
+    width:23rem;
+}
 footer {
     background-color:red;
     position: fixed;
     bottom: 0;
     width: 100%;
 }
-
 #madLibOutput {
     padding: 20px;
     text-align: center;
